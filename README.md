@@ -24,5 +24,5 @@ Telegram бот для продажи автомобилей с каталого
     .venv\Scripts\activate # для Windows
 ### 3.
     Установи зависимости: `pip install -r requirements.txt`
-    Создай файл `.env` с токеном
+    Создай файл `.env` с токеном: BOT_TOKEN=твой_токен_сюда
     Запусти: `python run.py`
