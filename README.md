@@ -14,12 +14,15 @@ Telegram бот для продажи автомобилей с каталого
 - Кнопка "🛒 Корзина" - просмотр корзины
 
 ## Установка
-  git clone https://github.com/Ashkelon1337/cars_store_bot.git
-  cd cars_store_bot
-  python -m venv .venv 
-  source .venv/bin/activate # для Linux/Mac
-  
-  .venv\Scripts\activate # для Windows
-  Установи зависимости: `pip install -r requirements.txt`
-  Создай файл `.env` с токеном
-  Запусти: `python run.py`
+### 1.
+    git clone https://github.com/Ashkelon1337/cars_store_bot.git
+    cd cars_store_bot
+### 2.
+    python -m venv .venv 
+    source .venv/bin/activate # для Linux/Mac
+    
+    .venv\Scripts\activate # для Windows
+### 3.
+    Установи зависимости: `pip install -r requirements.txt`
+    Создай файл `.env` с токеном
+    Запусти: `python run.py`
