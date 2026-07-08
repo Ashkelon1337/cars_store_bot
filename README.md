@@ -29,8 +29,8 @@ A Telegram bot for automotive sales, featuring an interactive product catalog an
     cd cars_store_bot
     ```
 2. **Install the required packages:**
-    pip install -r requirements.txt
+    ```bash pip install -r requirements.txt```
 3. **Create a .env file in the root directory and add your secret token:**
-    BOT_TOKEN=your_bot_token_here
+    ```bash BOT_TOKEN=your_bot_token_here```
 4. **Start the Telegram bot:**
-    python run.py
+    ```bash python run.py```
